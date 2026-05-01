@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "title": "Ract js ",
+      "subject": "from YT ",
+      "priority": "Medium",
+      "deadline": "2026-04-29",
+      "id": 1777391375712,
+      "status": "pending"
+    },
+    {
+      "title": "gn",
+      "subject": "gbn",
+      "priority": "High",
+      "deadline": "2026-05-12",
+      "id": 1778091166135,
+      "status": "completed"
+    },
+    {
+      "title": "g",
+      "subject": "gbgb",
+      "priority": "Low",
+      "deadline": "2026-05-14",
+      "id": 1778091185362,
+      "status": "completed"
+    },
+    {
+      "title": "wrhb",
+      "subject": "fgbbny",
+      "priority": "High",
+      "deadline": "2026-05-06",
+      "id": 1778091199161,
+      "status": "completed"
+    }
+  ],
+  "studyMinutes": 0,
+  "studySlots": [
+    {
+      "id": 1778091153457,
+      "time": "16:22",
+      "subject": "fhtg"
+    }
+  ]
+}
